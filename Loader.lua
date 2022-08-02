@@ -3,7 +3,7 @@
 // TracyHub v1 \\
 
 Credits:
-[Sonmol]: Owner, developer, BigPaintball
+[Sonmol]: Owner, developer, BigPaintball, Tower Of Mysery
 
 Kocmoc is owned, coded developed and managed by Sonmol alone. Anyone else who claims to be a developer is an impersonator.
 
@@ -13,6 +13,8 @@ Thanks for using TracyHub! ^-^
 
 if game.PlaceId == 3527629287 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/BIGPaintball.lua"))()
+elseif game.PlaceId == 4954752502 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/TOMTest.lua"))()
 elseif game.PlaceId == 5956785391 or game.PlaceId == 7722306047 then
 	game.Players.LocalPlayer:Kick("Coming Soon.")
 else
