@@ -14,7 +14,7 @@ Thanks for using TracyHub! ^-^
 if game.PlaceId == 3527629287 then
 	game.Players.LocalPlayer:Kick("Coming Soon.")
 elseif game.PlaceId == 4954752502 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/TowerOfMysery.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/TowerOfMisery.lua"))()
 elseif game.PlaceId == 5956785391 or game.PlaceId == 7722306047 then
 	game.Players.LocalPlayer:Kick("Coming Soon.")
 else
