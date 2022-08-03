@@ -12,7 +12,7 @@ Thanks for using TracyHub! ^-^
 ]]
 
 if game.PlaceId == 3527629287 then
-	game.Players.LocalPlayer:Kick("Coming Soon.")
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/BIGPaintball.lua"))()
 elseif game.PlaceId == 4597327782 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/RadioBoombox.lua"))()
 elseif game.PlaceId == 5670218884 then
