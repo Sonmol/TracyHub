@@ -3,7 +3,7 @@
 // TracyHub v1 \\
 
 Credits:
-[Sonmol]: Owner, developer, BigPaintball, Tower Of Mysery
+[Sonmol]: Owner, developer.
 
 Kocmoc is owned, coded developed and managed by Sonmol alone. Anyone else who claims to be a developer is an impersonator.
 
