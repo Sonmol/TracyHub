@@ -5,7 +5,7 @@
 Credits:
 [Sonmol]: Owner, developer.
 
-Kocmoc is owned, coded developed and managed by Sonmol alone. Anyone else who claims to be a developer is an impersonator.
+TracyHub is owned, coded developed and managed by Sonmol alone. Anyone else who claims to be a developer is an impersonator.
 
 Thanks for using TracyHub! ^-^
 
