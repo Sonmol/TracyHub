@@ -19,8 +19,6 @@ elseif game.PlaceId == 5670218884 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/ItemAsylum.lua"))()
 elseif game.PlaceId == 4954752502 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonmol/TracyHub/main/games/TowerOfMisery.lua"))()
-elseif game.PlaceId == 5956785391 or game.PlaceId == 7722306047 then
-	game.Players.LocalPlayer:Kick("Coming Soon.")
 else
 	game.Players.LocalPlayer:Kick("Error loadng TracyHub.\n\nNo supported game found.\n\nPlease join a supported game.")
 end
